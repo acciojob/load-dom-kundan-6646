@@ -1,1 +1,3 @@
-//your JS code here. If required.
+window.onload = () => {
+	document.querySelector('body').innerText = 'DOM load success';
+}
